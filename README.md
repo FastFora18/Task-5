@@ -91,6 +91,6 @@ namespace TacticalAssault
         }
     }
 }
-<img width="1919" height="1079" alt="Task-5 ПЭНЭГЭШКО" src="https://github.com/user-attachments/assets/bc3a3259-e1fb-42a4-9164-07ea45129021" />
 ```
+<img width="1919" height="1079" alt="Task-5 ПЭНЭГЭШКО" src="https://github.com/user-attachments/assets/bc3a3259-e1fb-42a4-9164-07ea45129021" />
 // Делали Башкатова и Аристов
